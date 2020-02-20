@@ -57,6 +57,8 @@ def db_seed():
                      password='P@ssw0rd')
 
     db.session.add(test_user)
+    db.session.commit()
+    print('Database seeded!')
 
 
 @app.route('/')
