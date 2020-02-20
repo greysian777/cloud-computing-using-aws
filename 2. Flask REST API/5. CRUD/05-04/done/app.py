@@ -248,4 +248,4 @@ planets_schema = PlanetSchema(many=True)
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=5000, debug=True)

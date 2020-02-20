@@ -6,12 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello World!'
-
-
-@app.route('/super_simple')
-def super_simple():
-    return = 'Hello from the Planetary API.'
+    return 'Hello World! ASU'
 
 
 if __name__ == '__main__':

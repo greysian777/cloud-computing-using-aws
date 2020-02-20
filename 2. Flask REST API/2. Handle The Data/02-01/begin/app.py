@@ -11,8 +11,8 @@ def hello_world():
 
 @app.route('/super_simple')
 def super_simple():
-    return = 'Hello from the Planetary API.'
+    return 'Hello from the Planetary API.'
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=5000, debug=True)
