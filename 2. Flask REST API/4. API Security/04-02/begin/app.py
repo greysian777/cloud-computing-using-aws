@@ -100,7 +100,7 @@ def url_variables(name: str, age: int):
 def planets():
     planets_list = Planet.query.all()
     result = planets_schema.dump(planets_list)
-    return jsonify(result.data)
+    return jsonify(result)
 
 
 # database models
