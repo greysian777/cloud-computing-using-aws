@@ -1,7 +1,7 @@
 # UTS
 
 
-## 1. Deploy ini kedalam AWS Gunakan Cheatsheet yang sudah tersedia
+## 1. Deploy ini kedalam AWS (T2 Micro) Gunakan Cheatsheet yang sudah tersedia
 
 ## 2. Ada sedikit perbedaan dengan cheatsheet
 
@@ -19,4 +19,4 @@ https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal
 ## 4. Waktu kalian hanya 1 Hari yaitu 20 Maret 2020
 
 
-## 5. Jangan lupa matikan AWS kalian setelah kalian selesei menggunakan
+## 6. Biarkan aws kalian selama seminggu karena saya akan mengecek Public IP kalian  
