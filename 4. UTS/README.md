@@ -19,4 +19,4 @@ https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal
 ## 4. Waktu kalian hanya 1 Hari yaitu 20 Maret 2020
 
 
-## 5. Biarkan aws kalian selama seminggu karena saya akan mengecek Public IP kalian  
+## 5. Biarkan aws kalian selama seminggu karena saya akan mengecek Public IP kalian  (cost T2 Micro 1.9488 USD / Week)
