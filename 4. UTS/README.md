@@ -7,7 +7,7 @@
 
 Jika sebelumnya anda harus mengedit /etc/nginx/sites-enabled/default
 
-Kali ini kalian harus mengganti file tersebut dengan web.conf yang disediakan.
+Kali ini kalian harus mengganti file tersebut dengan default yang disediakan.
 
 Hint:
 https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal/4634381-move-and-copy-items-in-your-system
